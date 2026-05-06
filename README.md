@@ -1,81 +1,80 @@
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-}
-.float {
-  display: inline-block;
-  animation: float 2s ease-in-out infinite;
-}
-</style>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header" alt="header" />
 
-<div style="color: #ffb3d9;">
+<h1 align="center">🌸 Meu Projeto IA 🌸</h1>
+<h3 align="center">💖 Um portfólio fofo com web e exercícios de programação 💖</h3>
 
-# Meu Projeto IA ♥ ⭐
+<img src="https://readme-typing-svg.herokuapp.com?color=ff69b4&center=true&vCenter=true&lines=Bem+vinda+ao+meu+mundo+kawaii+de+IA+e+código!;Explorando+algoritmos,+web+e+animações+rosas!;Giovanna+Maria+Pereira+🩷" alt="Typing SVG" />
 
-Este é um projeto pessoal que combina um portfólio web simples com uma coleção de exercícios de programação em Python <span class="float">♥</span>. O projeto foi desenvolvido para demonstrar habilidades em desenvolvimento web básico e práticas de codificação, incluindo algoritmos, refatoração e depuração.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p5dW5zZ3p5dW5zZ3p5dW5zZ3p5dW5zZ3p5dW5z/giphy.gif" width="300" alt="Kawaii GIF" />
+</p>
 
-## Estrutura do Projeto
+---
 
-### Arquivo Principal
-- `index.html`: Página inicial do portfólio pessoal, focada em reconhecimento de imagem, com design responsivo e animações CSS.
+## ✨ Sobre o Projeto ✨
 
-### Pasta `teste-assistent-code/`
-Esta pasta contém exercícios práticos de programação, criados e refinados com a ajuda de um assistente de IA (GitHub Copilot). Cada prática inclui código Python e explicações detalhadas.
+🎀 Este é um projeto pessoal que combina um portfólio web simples com uma coleção de exercícios de programação em Python. Desenvolvido para demonstrar habilidades em desenvolvimento web básico e práticas de codificação, incluindo algoritmos, refatoração e depuração. Tudo com um toque kawaii e rosa! 🩷
 
-- <strong>Prática 1: Verificação de Números Primos</strong>
-  - `pratica 1 num_primos.py`: Implementação otimizada da função `is_prime` com comentários inline.
-  - `pratica 1explicacao_num_primos.md`: Explicação técnica do algoritmo, incluindo otimizações e análise de complexidade.
+### 🌸 Estrutura do Projeto 🌸
+- **Página Web**: `index.html` - Portfólio pessoal focado em reconhecimento de imagem, com design responsivo e animações CSS.
+- **Exercícios Python**: Pasta `teste-assistent-code/` com práticas de algoritmos, refatoração e debug, criadas com ajuda de IA.
 
-- <strong>Prática 2 e 4: Refatoração de Código</strong>
-  - `pratica 2refatoracao.py`: Versão refatorada da função `is_prime` com validação de tipos, testes automatizados e melhor estrutura.
-  - `pratica 2 e 4explicacao-refatoracao.md`: Explicação linha a linha das melhorias aplicadas, como adição de type hints e tratamento de erros.
+---
 
-- <strong>Prática 3: Depuração de Código</strong>
-  - `pratica 3debug.py`: Programa corrigido para cálculo de compras com imposto e desconto, incluindo funções auxiliares para entrada segura.
-  - `pratica 3explicacao-debug.md`: Documentação dos erros encontrados e correções aplicadas, com foco em boas práticas de depuração.
+## 🛠️ Tecnologias Kawaii 🛠️
 
-## Tecnologias Utilizadas
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-ff69b4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-ffc0cb?style=for-the-badge&logo=css3&logoColor=black" alt="CSS" />
+  <img src="https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
+  <img src="https://img.shields.io/badge/Markdown-ff69b4?style=for-the-badge&logo=markdown&logoColor=black" alt="Markdown" />
+  <img src="https://img.shields.io/badge/GitHub-ffc0cb?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+</p>
 
-- <strong>HTML/CSS</strong>: Para a página web, utilizando Bootstrap 5 e animações personalizadas.
-- <strong>Python</strong>: Para os exercícios de programação, com ênfase em algoritmos eficientes e boas práticas (type hints, docstrings no estilo Google, testes).
-- <strong>Markdown</strong>: Para documentação das explicações.
+---
 
-## Como Executar
+## 📊 Estatísticas Kawaii 📊
 
-### Página Web
-1. Abra o arquivo `index.html` em qualquer navegador moderno.
-2. A página é responsiva e inclui animações de fundo.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giomoonbae-64bit&show_icons=true&theme=radical&bg_color=ffe4e1&title_color=ff69b4&text_color=ffb6c1&icon_color=ff69b4&hide_border=true" alt="GitHub Stats" />
+</p>
 
-### Exercícios Python
-1. Certifique-se de ter Python 3.6+ instalado.
-2. Navegue para a pasta `teste-assistent-code/`.
-3. Execute os scripts Python diretamente:
-   - `python "pratica 1 num_primos.py"` (inclui testes automáticos).
-   - `python pratica 2refatoracao.py` (executa testes).
-   - `python pratica 3debug.py` (interativo, calcula total de compras).
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giomoonbae-64bit&layout=compact&theme=radical&bg_color=ffe4e1&title_color=ff69b4&text_color=ffb6c1&hide_border=true" alt="Top Languages" />
+</p>
 
-### Dependências
-- Nenhum pacote externo é necessário para os scripts Python (usa apenas bibliotecas padrão).
-- Para a página web, Bootstrap é carregado via CDN.
+---
 
-## Objetivos e Aprendizados
+## 🎀 Como Executar 🎀
 
-Este projeto serve como um portfólio para demonstrar:
-- Implementação de algoritmos matemáticos eficientes (como verificação de primalidade).
-- Técnicas de refatoração para melhorar legibilidade e robustez do código.
-- Habilidades de depuração e correção de erros comuns em Python.
-- Integração de IA no desenvolvimento de código, com foco em explicações e documentação.
+### 🌟 Página Web
+1. Abra `index.html` em qualquer navegador moderno.
+2. Aproveite o design responsivo e animações!
 
-Cada prática inclui explicações detalhadas para facilitar o aprendizado e a revisão <span class="float" style="animation-delay: 1s;">⭐</span>.
+### 💻 Exercícios Python
+1. Instale Python 3.6+.
+2. Navegue para `teste-assistent-code/`.
+3. Execute: `python "pratica 1 num_primos.py"` etc.
 
-## Contribuição
+### 📦 Dependências
+- Scripts Python: Apenas bibliotecas padrão.
+- Web: Bootstrap via CDN.
 
-Este é um projeto pessoal para fins educacionais. Sugestões são bem-vindas via issues ou pull requests.
+---
 
-## Licença
+## 🎉 Objetivos e Aprendizados 🎉
 
-Este projeto é de uso pessoal e não possui licença específica.
+💖 Demonstração de algoritmos eficientes, refatoração, depuração e integração com IA. Tudo para aprendizado e portfólio! ✨
 
-</div></content>
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1&height=2" alt="separator" />
+
+<h3 align="center">🩷 Obrigada por visitar! Sinta-se à vontade para explorar e contribuir 🩷</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKz9bX9Z9Z9Z9Z9/giphy.gif" width="200" alt="Footer GIF" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer" alt="footer" /></content>
 <filePath">c:\Users\GIOVANNAMARIAPEREIRA\meu-projeto-IA\README.md
