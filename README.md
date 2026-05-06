@@ -1,34 +1,52 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header" alt="header" />
 
 <h1 align="center">🌸 Meu Projeto IA 🌸</h1>
-<h3 align="center">💖 Um portfólio fofo com web e exercícios de programação 💖</h3>
+<h3 align="center">💖 Portfólio Web + Exercícios de Programação em Python 💖</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=ff69b4&center=true&vCenter=true&lines=Bem+vinda+ao+meu+mundo+kawaii+de+IA+e+código!;Explorando+algoritmos,+web+e+animações+rosas!;Giovanna+Maria+Pereira+🩷" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?color=ff69b4&center=true&vCenter=true&lines=Bem+vinda+ao+Meu+Projeto+IA!;Explorando+IA,+Web+e+Algoritmos+Kawaii;Giovanna+Maria+Pereira+🩷" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p5dW5zZ3p5dW5zZ3p5dW5zZ3p5dW5zZ3p5dW5z/giphy.gif" width="300" alt="Kawaii GIF" />
+  <img src="https://media.giphy.com/media/3o7TKz9bX9Z9Z9Z9Z9/giphy.gif" width="300" alt="Kawaii GIF" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1&height=2" alt="separator" />
 
 ## ✨ Sobre o Projeto ✨
 
-🎀 Este é um projeto pessoal que combina um portfólio web simples com uma coleção de exercícios de programação em Python. Desenvolvido para demonstrar habilidades em desenvolvimento web básico e práticas de codificação, incluindo algoritmos, refatoração e depuração. Tudo com um toque kawaii e rosa! 🩷
+🎀 **Meu Projeto IA** é um repositório pessoal criado por Giovanna Maria Pereira para demonstrar habilidades em desenvolvimento web e programação Python. Combina um portfólio interativo em HTML/CSS com exercícios práticos de algoritmos, refatoração e depuração, todos refinados com assistência de IA (GitHub Copilot). O foco é em aprendizado, portfólio e exploração criativa em um estilo kawaii rosa! 🩷
 
-### 🌸 Estrutura do Projeto 🌸
-- **Página Web**: `index.html` - Portfólio pessoal focado em reconhecimento de imagem, com design responsivo e animações CSS.
-- **Exercícios Python**: Pasta `teste-assistent-code/` com práticas de algoritmos, refatoração e debug, criadas com ajuda de IA.
+### 🌸 Estrutura Completa do Projeto 🌸
+
+#### 📄 Página Web Principal
+- **[`index.html`](index.html)**: Portfólio pessoal focado em reconhecimento de imagem, com design responsivo usando Bootstrap 5, animações CSS personalizadas e tons de rosa. Inclui seções sobre mim, projetos e contato.
+
+#### 📁 Pasta `teste-assistent-code/`
+Exercícios práticos de programação em Python, criados e melhorados com IA:
+
+- **🎀 [Prática 1: Números Primos](teste-assistent-code/pratica%201%20num_primos.py)**
+  - Função `is_prime(n)` otimizada com algoritmo O(√n), pulando múltiplos de 2 e 3.
+  - **[Explicação Técnica](teste-assistent-code/pratica%201explicacao_num_primos.md)**: Detalhes do algoritmo, otimizações e testes.
+  - Testes automáticos incluídos no código.
+
+- **🎀 [Prática 2: Refatoração](teste-assistent-code/pratica%202refatoracao.py)**
+  - Versão refatorada da função `is_prime` com type hints, validação de entrada e testes.
+  - **[Explicação da Refatoração](teste-assistent-code/pratica%202%20e%204explicacao-refatoracao.md)**: Mudanças linha a linha, boas práticas aplicadas.
+
+- **🎀 [Prática 3: Depuração](teste-assistent-code/pratica%203debug.py)**
+  - Programa de cálculo de compras corrigido, com funções auxiliares para entrada segura.
+  - **[Explicação do Debug](teste-assistent-code/pratica%203explicacao-debug.md)**: Erros encontrados (tipos, sintaxe, indentação) e correções.
 
 ---
 
-## 🛠️ Tecnologias Kawaii 🛠️
+## 🛠️ Tecnologias Kawaii Usadas 🛠️
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-ff69b4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-ffc0cb?style=for-the-badge&logo=css3&logoColor=black" alt="CSS" />
-  <img src="https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
-  <img src="https://img.shields.io/badge/Markdown-ff69b4?style=for-the-badge&logo=markdown&logoColor=black" alt="Markdown" />
+  <img src="https://img.shields.io/badge/Bootstrap-ffb6c1?style=for-the-badge&logo=bootstrap&logoColor=black" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
   <img src="https://img.shields.io/badge/GitHub-ffc0cb?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Markdown-ffb6c1?style=for-the-badge&logo=markdown&logoColor=black" alt="Markdown" />
 </p>
 
 ---
@@ -45,32 +63,45 @@
 
 ---
 
-## 🎀 Como Executar 🎀
+## 🎀 Como Explorar o Projeto 🎀
 
-### 🌟 Página Web
-1. Abra `index.html` em qualquer navegador moderno.
-2. Aproveite o design responsivo e animações!
+### 🌟 Visualizar o Portfólio Web
+1. Abra [`index.html`](index.html) em um navegador moderno.
+2. Navegue pelas seções: sobre mim, projetos em IA e contato.
+3. Aproveite as animações e design responsivo!
 
-### 💻 Exercícios Python
-1. Instale Python 3.6+.
-2. Navegue para `teste-assistent-code/`.
-3. Execute: `python "pratica 1 num_primos.py"` etc.
+### 💻 Executar os Exercícios Python
+1. Instale Python 3.6+ (recomendado 3.8+).
+2. Clone ou baixe o repositório.
+3. Navegue para `teste-assistent-code/` no terminal.
+4. Execute os scripts:
+   - `python "pratica 1 num_primos.py"` (inclui testes e saída).
+   - `python pratica\ 2refatoracao.py` (executa testes unitários).
+   - `python pratica\ 3debug.py` (interativo: insira dados de compra).
 
-### 📦 Dependências
-- Scripts Python: Apenas bibliotecas padrão.
-- Web: Bootstrap via CDN.
+### 📦 Dependências e Requisitos
+- **Python**: Apenas bibliotecas padrão (typing, sys).
+- **Web**: Bootstrap 5 carregado via CDN; nenhum setup local necessário.
+- **Navegador**: Qualquer moderno para `index.html`.
 
 ---
 
-## 🎉 Objetivos e Aprendizados 🎉
+## 🎉 Aprendizados e Objetivos 🎉
 
-💖 Demonstração de algoritmos eficientes, refatoração, depuração e integração com IA. Tudo para aprendizado e portfólio! ✨
+💖 Este projeto reflete minha jornada em IA e programação:
+- **Algoritmos Eficientes**: Implementação de primalidade com otimizações.
+- **Refatoração**: Melhoria de código com type hints e validação.
+- **Depuração**: Correção de bugs comuns em Python.
+- **Integração com IA**: Uso de Copilot para acelerar desenvolvimento.
+- **Web Design**: Criação de portfólio aesthetic com animações.
+
+Cada prática inclui explicações detalhadas para facilitar aprendizado e revisão. Sugestões via issues são bem-vindas! ✨
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1&height=2" alt="separator" />
 
-<h3 align="center">🩷 Obrigada por visitar! Sinta-se à vontade para explorar e contribuir 🩷</h3>
+<h3 align="center">🩷 Obrigada por visitar Meu Projeto IA! Explore, aprenda e divirta-se 🩷</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKz9bX9Z9Z9Z9Z9/giphy.gif" width="200" alt="Footer GIF" />
