@@ -9,6 +9,8 @@
 }
 </style>
 
+<div style="color: #ffb3d9;">
+
 # Meu Projeto IA ♥ ⭐
 
 Este é um projeto pessoal que combina um portfólio web simples com uma coleção de exercícios de programação em Python <span class="float">♥</span>. O projeto foi desenvolvido para demonstrar habilidades em desenvolvimento web básico e práticas de codificação, incluindo algoritmos, refatoração e depuração.
@@ -21,23 +23,23 @@ Este é um projeto pessoal que combina um portfólio web simples com uma coleç�
 ### Pasta `teste-assistent-code/`
 Esta pasta contém exercícios práticos de programação, criados e refinados com a ajuda de um assistente de IA (GitHub Copilot). Cada prática inclui código Python e explicações detalhadas.
 
-- <strong style="color: #ffb3d9;">Prática 1: Verificação de Números Primos</strong>
+- <strong>Prática 1: Verificação de Números Primos</strong>
   - `pratica 1 num_primos.py`: Implementação otimizada da função `is_prime` com comentários inline.
   - `pratica 1explicacao_num_primos.md`: Explicação técnica do algoritmo, incluindo otimizações e análise de complexidade.
 
-- <strong style="color: #ffb3d9;">Prática 2 e 4: Refatoração de Código</strong>
+- <strong>Prática 2 e 4: Refatoração de Código</strong>
   - `pratica 2refatoracao.py`: Versão refatorada da função `is_prime` com validação de tipos, testes automatizados e melhor estrutura.
   - `pratica 2 e 4explicacao-refatoracao.md`: Explicação linha a linha das melhorias aplicadas, como adição de type hints e tratamento de erros.
 
-- <strong style="color: #ffb3d9;">Prática 3: Depuração de Código</strong>
+- <strong>Prática 3: Depuração de Código</strong>
   - `pratica 3debug.py`: Programa corrigido para cálculo de compras com imposto e desconto, incluindo funções auxiliares para entrada segura.
   - `pratica 3explicacao-debug.md`: Documentação dos erros encontrados e correções aplicadas, com foco em boas práticas de depuração.
 
 ## Tecnologias Utilizadas
 
-- <strong style="color: #b07cc6;">HTML/CSS</strong>: Para a página web, utilizando Bootstrap 5 e animações personalizadas.
-- <strong style="color: #b07cc6;">Python</strong>: Para os exercícios de programação, com ênfase em algoritmos eficientes e boas práticas (type hints, docstrings no estilo Google, testes).
-- <strong style="color: #b07cc6;">Markdown</strong>: Para documentação das explicações.
+- <strong>HTML/CSS</strong>: Para a página web, utilizando Bootstrap 5 e animações personalizadas.
+- <strong>Python</strong>: Para os exercícios de programação, com ênfase em algoritmos eficientes e boas práticas (type hints, docstrings no estilo Google, testes).
+- <strong>Markdown</strong>: Para documentação das explicações.
 
 ## Como Executar
 
@@ -73,5 +75,7 @@ Este é um projeto pessoal para fins educacionais. Sugestões são bem-vindas vi
 
 ## Licença
 
-Este projeto é de uso pessoal e não possui licença específica.</content>
+Este projeto é de uso pessoal e não possui licença específica.
+
+</div></content>
 <filePath">c:\Users\GIOVANNAMARIAPEREIRA\meu-projeto-IA\README.md
