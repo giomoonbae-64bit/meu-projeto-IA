@@ -108,4 +108,3 @@ Cada prática inclui explicações detalhadas para facilitar aprendizado e revis
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer" alt="footer" /></content>
-<filePath">c:\Users\GIOVANNAMARIAPEREIRA\meu-projeto-IA\README.md
